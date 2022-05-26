@@ -1,0 +1,60 @@
+@font-face {
+
+    font-family: miFuente;
+    font-weight: 800;
+    src: url(../fuentes/LEMONMILK-Bold.otf);
+
+
+}
+
+
+@font-face {
+
+    font-family: miFuente;
+    font-weight: 700;
+    src: url(../fuentes/LEMONMILK-Medium.otf);
+
+}
+
+@font-face {
+
+    font-family: miFuente1;
+    font-weight: 400;
+    src: url(../fuentes/BebasNeue-Regular.ttf);
+
+}
+
+body {
+    font-family: miFuente;
+    font-size: 80%;
+
+}
+
+h1 {
+
+    font-weight: 800;
+    font-size:  4.12em;
+
+    /* 66px */
+
+}
+
+p {
+
+
+    font-family: miFuente1;
+    font-weight: 400;
+    font-size: 1.18em; 
+
+    /*19px*/
+
+}
+
+
+#parrafo {
+
+
+    font-weight: 700;
+
+
+}
